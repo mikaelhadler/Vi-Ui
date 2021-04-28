@@ -9,7 +9,7 @@
   <a href="https://github.com/vitta-health/Vi-Ui/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"/></a>
 </p>
 
-<h2 align="center"><a href="https://vitta-health.github.io/Vi-Ui/">Read the documentation</a></h2>
+<h2 align="center"><a href="https://viui.dev/">Read the documentation</a></h2>
 
 ## Install:
 
